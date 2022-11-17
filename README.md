@@ -35,7 +35,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-💪 Um Portfólio pessoal, que concentra todas as informações dos meus projetos ao logo da minha experiência com tecnologia.
+💪 É uma plataforma web para lançamentos de produtos.
 
 ---
 
