@@ -55,7 +55,7 @@ O layout da aplicação está disponível no Netlify:
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://raw.githubusercontent.com/danielrodrigues-dv/alon-musk/main/application/alon-musk/src/assets/imagens/banner-elon.png" />
+  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://raw.githubusercontent.com/danielrodrigues-dv/alon-musk/main/application/src/assets/imagens/banner-elon.png" />
 </p>
 
 ---
