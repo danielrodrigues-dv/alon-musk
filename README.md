@@ -55,7 +55,7 @@ O layout da aplicação está disponível no Netlify:
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://raw.githubusercontent.com/danielrodrigues-dv/my-portfolio/main/application/src/assets/img/banner-portfolio.png" />
+  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://raw.githubusercontent.com/danielrodrigues-dv/alon-musk/main/application/alon-musk/src/assets/imagens/banner-elon.png" />
 </p>
 
 ---
@@ -74,16 +74,16 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/danielrodrigues-dv/my-portfolio.git
+$ git clone https://github.com/danielrodrigues-dv/alon-musk.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd application
 
 # Instale as dependências
-$ Não se aplica nesse projeto
+$ npm install ou yarn install
 
 # Execute a aplicação
-$ Abra o arquivo index.html
+$ ng server
 
 
 ```
@@ -94,6 +94,7 @@ $ Abra o arquivo index.html
 
 As seguintes tecnologias foram usadas na construção do projeto:
 
+-   **[Angular 14](https://angular.io)** 
 -   **[Bootstrap 5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/)** 
 -   **[ECMA Script 6](https://www.javascript.com/)**
 ---
