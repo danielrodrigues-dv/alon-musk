@@ -50,7 +50,7 @@ Tabela de conteúdos
 
 O layout da aplicação está disponível no Netlify:
 
-<a href="https://danielrodrigues-dv-calculadora-react-dv.netlify.app/">
+<a href="#">
   <img alt="Made by danielrodrigues-dv" src="https://img.shields.io/badge/Acessar%20Layout%20-aqui-%2304D361?style=flat-square">
 </a>
 
