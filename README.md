@@ -77,7 +77,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/danielrodrigues-dv/alon-musk.git
 
 # Instalar CLI do Angular
-npm install -g @angular/cli
+$ npm install -g @angular/cli
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd application
